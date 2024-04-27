@@ -1,0 +1,20 @@
+let num=80;
+let name80 = 8.0;   
+let favnum = 90.33     ;
+let
+k =
+ 2*2/ 2.333 - 2 +3;
+let p = 90.43
+  /
+  43 * 5;
+let yo
+  = 9;
+let a = 2.34
+  * 32.5;
+
+let cinco = 5;let numeros56letras1=45+43.5-3*11;
+let
+numero57 = 57;
+let miOperacion=10+99-3*79/2;
+let
+numero34=34;  
